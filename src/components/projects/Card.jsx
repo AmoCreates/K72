@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Card = () => {
+const Card = (props) => {
   return (
     <>
         <div className='img relative group flex transition-all overflow-hidden hover:rounded-4xl h-full w-[50%]'>
