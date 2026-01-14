@@ -1,8 +1,8 @@
 import React from 'react'
-import Card from '../components/projects/card'
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
 import { ScrollTrigger } from 'gsap/all'
+import Card from '../components/projects/card'
 
 const Projects = () => {
 
